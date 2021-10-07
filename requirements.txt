@@ -6,3 +6,7 @@ yargy
 dostoevsky
 yake
 laserembeddings
+sklearn
+numpy
+pandas
+matplotlib
