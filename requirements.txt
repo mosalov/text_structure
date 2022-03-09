@@ -1,12 +1,7 @@
-ipymarkup
+torch
+transformers
 razdel
-navec
-slovnet
-yargy
-dostoevsky
-yake
-laserembeddings
-sklearn
 numpy
 pandas
-matplotlib
+tqdm
+termcolor
